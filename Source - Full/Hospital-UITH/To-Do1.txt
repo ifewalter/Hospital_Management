@@ -1,0 +1,9 @@
+﻿creat staffDB for staff logins
+
+Finalize in-patients
+	bedspace
+	report
+	others
+	table updating
+	
+finalize database backup

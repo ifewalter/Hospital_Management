@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Hospital_UITH.PatientRegistration" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgwAEYBAEGACEAQAGAKAEAACCAAwAAEBAAAAAAAAAAA=</HashCode>
+      <FileName>PatientRegistration.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.Home" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wSogAQAggCgAgAAAQACAgIgTAEAAGAUAAPwHhEcgAAA=</HashCode>
+      <FileName>Home.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.Admissions" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgQEAAAECCAAAwAEBCAEAACAAASAAABAAAAAAACAAA=</HashCode>
+      <FileName>Admissions.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.Appointments" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAEAAgkKAAAAAAEACAAgACDAAQAQABBAABAAAAASA=</HashCode>
+      <FileName>Appointments.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.Diagnosis" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAIIgAECAAAAQAEACAEAACABTwACABBAAQACAAAAE=</HashCode>
+      <FileName>Diagnosis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.Diagnosisreport" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAEADAAAACAAAAAAAAQAAAAAQAAAA=</HashCode>
+      <FileName>Diagnosisreport.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.DischargeForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgECgAAAQAEACAEgJCAAASAAAAAAAQIAACAAA=</HashCode>
+      <FileName>DischargeForm.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSet" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACQIAAwBABAJABAhUQCAAAA4CQBgAAAAAAAEBBBg=</HashCode>
+      <FileName>HospitalDataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.howdiagnosis" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARGAAEAAEGCggBAAEESAACAGRCQQAAAQApEYIAIAAQA=</HashCode>
+      <FileName>howdiagnosis.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.RegisteredPatients" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARGAAEAAAGCigBMAGECAACACTCQSAAAAApEIIEAAAQA=</HashCode>
+      <FileName>RegisteredPatients.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.Show_Appointments" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARGAAEAAAGCggBEAEECAACACdAQQAAAARtEIIAAAAQA=</HashCode>
+      <FileName>Show Appointments.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.showadmissions" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARGAAEAAAGCAgxAAEECAACACQCQSAAAAAgEIMQQAgQA=</HashCode>
+      <FileName>showadmissions.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.visits" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAgECAAAAQAEECAEgACCAAQAAAAAAAQAAAIAAA=</HashCode>
+      <FileName>visits.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.PatientRegistrationTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAQRBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.diagnosisTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.appointmentsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+      <FileName>HospitalDataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.admissionsTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAIAAAABBA=</HashCode>
+      <FileName>HospitalDataSet.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.visitsTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.TableAdapterManager">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Hospital_UITH.HospitalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Hospital_UITH.HospitalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AVIAACAAAAFCBAEBAAAAMAAoCAACgUEAAAQAAAAABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

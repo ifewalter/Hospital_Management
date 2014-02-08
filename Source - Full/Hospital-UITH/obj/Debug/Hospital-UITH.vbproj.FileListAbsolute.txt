@@ -1,0 +1,79 @@
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital-UITH.exe.config
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\backup\Hospital.mdf
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\backup\Hospital_log.LDF
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital.mdf
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital_log.ldf
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital-UITH.exe.manifest
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital-UITH.application
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital-UITH.exe
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital-UITH.pdb
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\Hospital-UITH.xml
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\bin\Debug\CloudToolkitN6.dll
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Admissions.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Appointments.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Diagnosis.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Diagnosisreport.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.DischargeForm.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Home.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.howdiagnosis.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Resources.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.PatientRegistration.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.RegisteredPatients.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.appointmentviewer.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.PatientsViewer.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Show_Appointments.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.showadmissions.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.visits.resources
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital-UITH.vbproj.GenerateResource.Cache
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\RdlCompile.cache
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\RdlCompile.compiled
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital-UITH.exe.manifest
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital-UITH.application
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital-UITH.exe
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital-UITH.xml
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital-UITH.pdb
+D:\Documents and Settings\Ghost.GHOST-LAB\My Documents\Visual Studio 2008\Projects\Hospital-UITH\Hospital-UITH\obj\Debug\Hospital_UITH.Welcome.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\backup\Hospital.mdf
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\backup\Hospital_log.LDF
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital.mdf
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital_log.ldf
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital-UITH.exe.config
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital-UITH.exe.manifest
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital-UITH.application
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital-UITH.exe
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital-UITH.pdb
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\bin\Debug\Hospital-UITH.xml
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Admissions.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Appointments.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Diagnosis.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Diagnosisreport.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.DischargeForm.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Home.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.howdiagnosis.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Resources.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.PatientRegistration.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.RegisteredPatients.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.appointmentviewer.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.PatientsViewer.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Show_Appointments.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.showadmissions.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.visits.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital_UITH.Welcome.resources
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital-UITH.vbproj.GenerateResource.Cache
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\RdlCompile.cache
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\RdlCompile.compiled
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital-UITH.exe.manifest
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital-UITH.application
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital-UITH.exe
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital-UITH.xml
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source\Hospital-UITH\obj\Debug\Hospital-UITH.pdb
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source - Full\Hospital-UITH\bin\Debug\Hospital-UITH.exe.config
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source - Full\Hospital-UITH\obj\Debug\Hospital-UITH.exe
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source - Full\Hospital-UITH\obj\Debug\Hospital-UITH.xml
+C:\Users\Ghost\Documents\Visual Studio 2008\Projects\Hospital-UITH\Source - Full\Hospital-UITH\obj\Debug\Hospital-UITH.pdb
+C:\Users\Ghost\Dropbox\Documents\New folder (3)\Projects\Hospital-UITH\Source - Full\Hospital-UITH\bin\Debug\Hospital-UITH.exe.config
+C:\Users\Ghost\Dropbox\Documents\New folder (3)\Projects\Hospital-UITH\Source - Full\Hospital-UITH\obj\Debug\Hospital-UITH.exe
+C:\Users\Ghost\Dropbox\Documents\New folder (3)\Projects\Hospital-UITH\Source - Full\Hospital-UITH\obj\Debug\Hospital-UITH.xml
+C:\Users\Ghost\Dropbox\Documents\New folder (3)\Projects\Hospital-UITH\Source - Full\Hospital-UITH\obj\Debug\Hospital-UITH.pdb

@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9C098ED6-DE5F-4BC8-9313-54A116E86964}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Hospital_UITH.My.MyApplication</StartupObject>
+    <RootNamespace>Hospital_UITH</RootNamespace>
+    <AssemblyName>Hospital-UITH</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>4BF1ECDBDB53044998CB41923395D27C64CF60C8</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Hospital-UITH_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>C:\MOBILE_MP4\UITH\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>UITH</ProductName>
+    <PublisherName>Bisola</PublisherName>
+    <CreateWebPageOnPublish>false</CreateWebPageOnPublish>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Hospital-UITH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Hospital-UITH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CloudToolkitN6, Version=0.6.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\MSVS-powerpacks\CloudToolkitN6.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admissions.Designer.vb">
+      <DependentUpon>Admissions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admissions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Appointments.Designer.vb">
+      <DependentUpon>Appointments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Appointments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnosis.Designer.vb">
+      <DependentUpon>Diagnosis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnosis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagnosisreport.Designer.vb">
+      <DependentUpon>Diagnosisreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Diagnosisreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DischargeForm.Designer.vb">
+      <DependentUpon>DischargeForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DischargeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.vb">
+      <DependentUpon>Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HospitalDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalDataSet.vb">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="howdiagnosis.Designer.vb">
+      <DependentUpon>howdiagnosis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="howdiagnosis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PatientRegistration.Designer.vb">
+      <DependentUpon>PatientRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PatientRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisteredPatients.Designer.vb">
+      <DependentUpon>RegisteredPatients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegisteredPatients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\appointmentviewer.Designer.vb">
+      <DependentUpon>appointmentviewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\appointmentviewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\PatientsViewer.Designer.vb">
+      <DependentUpon>PatientsViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\PatientsViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="Show Appointments.Designer.vb">
+      <DependentUpon>Show Appointments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Show Appointments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showadmissions.Designer.vb">
+      <DependentUpon>showadmissions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="showadmissions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="visits.Designer.vb">
+      <DependentUpon>visits.vb</DependentUpon>
+    </Compile>
+    <Compile Include="visits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.vb">
+      <DependentUpon>Welcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Admissions.resx">
+      <DependentUpon>Admissions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Appointments.resx">
+      <DependentUpon>Appointments.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="apptviewer.rdlc" />
+    <EmbeddedResource Include="Diagnosis.resx">
+      <DependentUpon>Diagnosis.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiagnosisReport.rdlc" />
+    <EmbeddedResource Include="Diagnosisreport.resx">
+      <DependentUpon>Diagnosisreport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DischargeForm.resx">
+      <DependentUpon>DischargeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="howdiagnosis.resx">
+      <DependentUpon>howdiagnosis.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PatientRegistration.resx">
+      <DependentUpon>PatientRegistration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisteredPatients.resx">
+      <DependentUpon>RegisteredPatients.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegPatients.rdlc" />
+    <EmbeddedResource Include="Reports\appointmentviewer.resx">
+      <DependentUpon>appointmentviewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\PatientsViewer.resx">
+      <DependentUpon>PatientsViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Show Appointments.resx">
+      <DependentUpon>Show Appointments.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="showadmissions.resx">
+      <DependentUpon>showadmissions.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="visits.resx">
+      <DependentUpon>visits.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <DependentUpon>Welcome.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Hospital-UITH_TemporaryKey.pfx" />
+    <None Include="HospitalDataSet.xsc">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDataSet.xss">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="proj_images\Home_Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="backup\Hospital.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="backup\Hospital_log.LDF">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Hospital.mdf</DependentUpon>
+    </Content>
+    <Content Include="Hospital.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Hospital_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Hospital.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\clinic.jpg" />
+    <Content Include="To-Do1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.ReportViewer.8.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Studio 2008 Report Viewer</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
